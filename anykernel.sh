@@ -54,6 +54,7 @@ ui_print ""
 ui_print "- Kernel Installed Successfully"
 sleep 3
 ui_print "- DWYOR (Do With Your Own Risk)"
+sleep 2
 ui_print "- Done And Reboot"
 sleep 3
 ui_print "- ARA ARA"
