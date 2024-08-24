@@ -52,9 +52,9 @@ flash_boot;
 sleep 3
 ui_print ""
 ui_print "- Kernel Installed Successfully"
-sleep 3
+sleep 1
 ui_print "- DWYOR (Do With Your Own Risk)"
-sleep 2
+sleep 1
 ui_print "- Done And Reboot"
-sleep 3
+sleep 1
 ui_print "- ARA ARA"
